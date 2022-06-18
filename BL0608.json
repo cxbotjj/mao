@@ -213,7 +213,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovLzE3NS4xNzguMjkuMTc5L3htL3R2L2xpdmUudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jeGJvdGpqLmdpdGh1Yi5pby9tYW8vbGl2ZS50eHQ"
           ]
         }
       ]
